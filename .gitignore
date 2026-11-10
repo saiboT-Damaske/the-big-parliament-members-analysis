@@ -1,0 +1,13 @@
+# Keep image assets and derived pixel data out of the repository.
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tif
+*.tiff
+Thumbs.db
+/X.npy
+/db.zip
+/Bundestag DB/Bundestag_Images_official.zip
