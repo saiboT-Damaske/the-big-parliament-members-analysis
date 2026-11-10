@@ -11,3 +11,11 @@ Thumbs.db
 /spanish-congress/datasets/X.npy
 /spanish-congress/datasets/db.zip
 /german-bundestag/datasets/official-images.zip
+
+# Track only the German Bundestag and Spanish Congress photo datasets.
+!/german-bundestag/datasets/official-images/*.jpg
+!/german-bundestag/datasets/official-images/*.png
+!/spanish-congress/datasets/db/**/*.jpg
+!/spanish-congress/datasets/db/**/*.png
+!/spanish-congress/datasets/lab-database/db/**/*.jpg
+!/spanish-congress/datasets/lab-database/db/**/*.png
