@@ -8,6 +8,6 @@
 *.tif
 *.tiff
 Thumbs.db
-/X.npy
-/db.zip
-/Bundestag DB/Bundestag_Images_official.zip
+/parliaments/spanish-congress/datasets/X.npy
+/parliaments/spanish-congress/datasets/db.zip
+/parliaments/german-bundestag/datasets/official-images.zip
